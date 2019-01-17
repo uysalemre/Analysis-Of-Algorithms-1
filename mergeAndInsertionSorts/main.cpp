@@ -1,6 +1,6 @@
 //  main.cpp
 //  AnalysisOfAlgorithms1
-//  150160510
+
 //  Created by Emre Uysal on 13.10.2018.
 //  Copyright © 2018 Emre Uysal. All rights reserved.
 
