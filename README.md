@@ -1,7 +1,7 @@
 # AnalysisOfAlgorithms-SortingAlgorithms
 ## In this repository you can find the following Algorithms:
 
-### MergeAndInsertionSorts
+### mergeAndInsertionSorts
 - This project includes Merge and Insertion Sort Algorithms written in C++ language.
 - Aim of the project is inclued in the pdf file.
 - Detailed explanation of the code and Algorithms are in the report pdf file.
@@ -17,7 +17,7 @@
   - N => size 
     - for example 1000000
   
-### HeapSort
+### heapSortAlgorithm
 - This project includes working with heaps and Heap Functions written in C++ language.
 - Aim of the project is included in the pdf file.
 - Detailed explanation is in the report pdf file.
@@ -26,7 +26,7 @@
   - g++ HeapSort.h HeapSort.cpp Node.h main.cpp -o yourExecutable
   - ./yourExecutable
 
-### HashTable
+### hashTable
 - This project includes working with hash dictionary and Open Adressing Methods.
   - Linear Probing
   - Double Hashing
